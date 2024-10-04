@@ -11,6 +11,7 @@ const numbtn=document.querySelectorAll(`.number`);
 let result='';
 let op='';
 let poper=0;
+let hello="2";
 
 //append number
 const appnum=(n)=>{

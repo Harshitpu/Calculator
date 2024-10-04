@@ -5,8 +5,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
 body{
     background-color: black;
+    color: white;
 }
 
 .calculator{
